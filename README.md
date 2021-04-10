@@ -4,3 +4,8 @@ Use this script for creating shortcut to change between colors and change bright
 For working you need to install
 https://github.com/wroberts/rogauracore
 before.
+\n
+Go to next color --next
+Go to previous color --prev
+Increasing brightness --inc
+Decreasing brightness --dec
