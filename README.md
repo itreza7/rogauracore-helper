@@ -4,7 +4,7 @@ RGB keyboard control for Asus ROG laptops Use this script for creating a shortcu
 ### Prerequisites:
 
 ```
-https://github.com/wroberts/rogauracore
+[RGB keyboard control for Asus ROG laptops](https://github.com/wroberts/rogauracore)
 ```
 
 ### Usage
