@@ -1,13 +1,13 @@
 # Rogauracore Helper
 RGB keyboard control for Asus ROG laptops Use this script for creating a shortcut to change between colors and change the brightness for some reason like a keyboard shortcut
 
-##### Prerequisites:
+### Prerequisites:
 
 ```
 https://github.com/wroberts/rogauracore
 ```
 
-#### Usage
+### Usage
 
 ```
 Go to next color :
@@ -23,7 +23,7 @@ Decreasing brightness
 brightness.py --dec
 ```
 
-#### Add shortcut to keyboard
+### Add shortcut to keyboard
 
 - To create your own application keyboard shortcut in the Keyboard settings:
 - Click the + button. The Add Custom Shortcut window will appear.
