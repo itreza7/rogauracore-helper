@@ -1,6 +1,5 @@
 # Rogauracore Helper
-RGB keyboard control for Asus ROG laptops
-Use this script for creating shortcut to change between colors and change brightness for some reason like keyboard shortcut
+RGB keyboard control for Asus ROG laptops Use this script for creating a shortcut to change between colors and change the brightness for some reason like a keyboard shortcut
 
 ##### Prerequisites:
 
