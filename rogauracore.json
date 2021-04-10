@@ -1,0 +1,18 @@
+{
+    "brightness": 0,
+    "colors": {
+        "1": "single_static",
+        "10": "red",
+        "11": "green",
+        "12": "blue",
+        "2": "yellow",
+        "3": "gold",
+        "4": "cyan",
+        "5": "magenta",
+        "6": "white",
+        "7": "black",
+        "8": "single_colorcycle 1",
+        "9": "rainbow"
+    },
+    "current_color": 4
+}
