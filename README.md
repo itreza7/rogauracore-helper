@@ -9,16 +9,16 @@ RGB keyboard control for Asus ROG laptops Use this script for creating a shortcu
 
 ```
 Go to next color :
-brightness.py --next
+rogauracore.py --next
 
 Go to previous color
-brightness.py --prev
+rogauracore.py --prev
 
 Increasing brightness 
-brightness.py --inc
+rogauracore.py --inc
 
 Decreasing brightness 
-brightness.py --dec
+rogauracore.py --dec
 ```
 
 ### Add shortcut to keyboard
